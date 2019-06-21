@@ -1,0 +1,16 @@
+c:\users\user\source\repos\ThinkAboutApi\ThinkAboutApi\bin\Debug\netcoreapp2.1\ThinkAboutApi.deps.json
+c:\users\user\source\repos\ThinkAboutApi\ThinkAboutApi\bin\Debug\netcoreapp2.1\ThinkAboutApi.runtimeconfig.json
+c:\users\user\source\repos\ThinkAboutApi\ThinkAboutApi\bin\Debug\netcoreapp2.1\ThinkAboutApi.runtimeconfig.dev.json
+c:\users\user\source\repos\ThinkAboutApi\ThinkAboutApi\bin\Debug\netcoreapp2.1\ThinkAboutApi.dll
+c:\users\user\source\repos\ThinkAboutApi\ThinkAboutApi\obj\Debug\netcoreapp2.1\ThinkAboutApi.csprojAssemblyReference.cache
+c:\users\user\source\repos\ThinkAboutApi\ThinkAboutApi\obj\Debug\netcoreapp2.1\ThinkAboutApi.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ThinkAboutApi\ThinkAboutApi\obj\Debug\netcoreapp2.1\ThinkAboutApi.RazorAssemblyInfo.cache
+c:\users\user\source\repos\ThinkAboutApi\ThinkAboutApi\obj\Debug\netcoreapp2.1\ThinkAboutApi.RazorAssemblyInfo.cs
+c:\users\user\source\repos\ThinkAboutApi\ThinkAboutApi\obj\Debug\netcoreapp2.1\ThinkAboutApi.AssemblyInfoInputs.cache
+c:\users\user\source\repos\ThinkAboutApi\ThinkAboutApi\obj\Debug\netcoreapp2.1\ThinkAboutApi.AssemblyInfo.cs
+c:\users\user\source\repos\ThinkAboutApi\ThinkAboutApi\obj\Debug\netcoreapp2.1\ThinkAboutApi.RazorTargetAssemblyInfo.cache
+c:\users\user\source\repos\ThinkAboutApi\ThinkAboutApi\bin\Debug\netcoreapp2.1\ThinkAboutApi.pdb
+c:\users\user\source\repos\ThinkAboutApi\ThinkAboutApi\obj\Debug\netcoreapp2.1\ThinkAboutApi.dll
+c:\users\user\source\repos\ThinkAboutApi\ThinkAboutApi\obj\Debug\netcoreapp2.1\ThinkAboutApi.pdb
+C:\Users\User\source\repos\ThinkAboutApi\ThinkAboutApi\obj\Debug\netcoreapp2.1\ThinkAboutApi.Properties.Resources.resources
+C:\Users\User\source\repos\ThinkAboutApi\ThinkAboutApi\obj\Debug\netcoreapp2.1\ThinkAboutApi.csproj.GenerateResource.cache
